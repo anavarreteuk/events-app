@@ -37,7 +37,6 @@ class PlaceInput extends Component {
             options={options}
             onSelect={onSelect}
             styles={styles}
-            
           />
         )}
         {touched && error && (
